@@ -29,7 +29,7 @@ Se definieron criterios de calidad:
 - UX
 - Rendimiento
 
-- ## Coherencia del sistema
+## Coherencia del sistema
 
 Las historias de usuario definidas en Jira se modelaron mediante diagramas UML, los cuales fueron implementados a nivel lógico en clases y posteriormente validados mediante casos de prueba.
 
