@@ -28,3 +28,9 @@ Se definieron criterios de calidad:
 - Seguridad
 - UX
 - Rendimiento
+
+- ## Coherencia del sistema
+
+Las historias de usuario definidas en Jira se modelaron mediante diagramas UML, los cuales fueron implementados a nivel lógico en clases y posteriormente validados mediante casos de prueba.
+
+Esto asegura trazabilidad completa entre requerimientos, diseño y validación.
