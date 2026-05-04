@@ -56,3 +56,11 @@ Diseñar una solución estructurada y funcional para la gestión de reservas hot
 - 🔗 Drive: https://drive.google.com/drive/folders/1Cdo89zEzezdYnkcAIgc2xn-5KADEAeX7?usp=drive_link 
 
 ---
+Testing funcional:
+Se realizaron pruebas para validar las historias de usuario críticas:
+- Registro (HU1)
+- Disponibilidad (HU3)
+- Reserva (HU4)
+- Pago (HU6)
+
+Se consideraron casos de éxito y error, verificando el comportamiento esperado del sistema.
