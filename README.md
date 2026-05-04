@@ -8,6 +8,12 @@ El sistema permite a los usuarios consultar disponibilidad de habitaciones, real
 
 Este trabajo se enfoca en el diseño del sistema utilizando metodologías ágiles (Scrum) y diagramas UML.
 
+El sistema fue diseñado utilizando UML bajo el modelo 4+1, permitiendo representar las vistas funcionales, lógicas y de proceso.
+
+Las historias de usuario definidas en Jira fueron validadas mediante casos de prueba documentados en la planilla de testing, asegurando coherencia entre requerimientos, diseño y validación.
+
+Los criterios de aceptación fueron definidos mediante la planilla DOD, garantizando la calidad del producto en términos funcionales, UX y seguridad.
+
 ## Contenido del repositorio
 
 ### uml/
